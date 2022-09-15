@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 <h2>Otra información</h2>
 <ul>
-  <li>Aptitud para trabajar en equipo y realizar proyectos en forma complementaria</li>
+  <li>Aptitud para trabajar en equipo y realizar proyectos en forma colaborativa</li>
   <li>Habilidades comunicativas y sociales</li>
   <li>Compromiso y responsabilidad con mis funciones</li>
   <li>Pro-activo</li>
-  <li>Socialble</li>
+  <li>Sociable</li>
   <li>Habilidad para crear soluciones prácticas</li>
   <li>Ganas de aprender</li>
 </ul>
